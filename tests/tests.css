@@ -1,0 +1,7 @@
+/* all properties in lowercase */
+body {
+	/* bad */
+	color:  #FFF;
+	/* good */
+	color: #fff;
+}
